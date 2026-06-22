@@ -113,19 +113,19 @@ This command clears all visible content from the terminal window.
 
 ### Echo Command
 
-![Echo Command](screenshots/01_echo_hello.png)
+![Echo Command](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-shell-basics-lab/screenshots/2.png?raw=true)
 
 ### Echo with Quotes
 
-![Echo with Quotes](screenshots/03_echo_quotes.png)
+![Echo with Quotes](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-shell-basics-lab/screenshots/4.png?raw=true)
 
 ### Echo Name Output
 
-![Echo Name](screenshots/05_echo_name.png)
+![Echo Name](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-shell-basics-lab/screenshots/6.png?raw=true)
 
 ### Expr Calculation
 
-![Expr Calculation](screenshots/07_expr_calculation.png)
+![Expr Calculation](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-shell-basics-lab/screenshots/9.png?raw=true)
 
 ---
 
