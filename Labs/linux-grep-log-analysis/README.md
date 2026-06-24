@@ -217,11 +217,7 @@ grep -c "Human Resources" Q4_added_users.txt
 ### Log Analysis and User Report Analysis
 
 
-#### grep error server_logs.txt
-
 ![screenshot20](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-grep-log-analysis/screenshots/20.png)
-
-grep -c error server_logs.txt
 
 ![secreenshot30](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-grep-log-analysis/screenshots/30.png)
 
