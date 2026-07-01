@@ -122,18 +122,6 @@ cat tasks.txt
 
 ---
 
-## Screenshots
-
-### Terminal Operations
-
-![screenshot27](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-file-management-lab/screenshots/27.png)
-
-### Task File Output
-
-![screenshot36](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-file-management-lab/screenshots/36.png)
-
----
-
 ## Learning Outcomes
 
 Through this lab, I learned how to:
