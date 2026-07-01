@@ -183,19 +183,6 @@ Proper permission management helps prevent unauthorized access, modification, an
 
 ---
 
-## Screenshots
-
-### Initial Permissions
-
-![screenshot18](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-file-permissions-lab/screenshots/18.png)
-
-### Updated Permissions
-
-![screenshot23](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-file-permissions-lab/screenshots/23.png)
-
-
----
-
 ## Key Takeaways
 
 This lab provided hands-on experience with Linux authorization and permission management. By examining and modifying file and directory permissions, I reinforced the importance of access control and the principle of least privilege in maintaining system security.
