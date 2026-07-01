@@ -58,10 +58,6 @@ This behavior is expected because the user's primary group had already been chan
 sudo groupdel researcher9
 ```
 
-## Screenshot
-
-![screenshot12](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-user-management-lab/screenshots/12.png)
-
 ## Skills Demonstrated
 
 * Linux Administration
@@ -78,7 +74,7 @@ sudo groupdel researcher9
 ```
 linux-user-management-lab/
 │── README.md
-└── screenshots/
+└── screenshots.pdf
 ```
 
 ## Author
