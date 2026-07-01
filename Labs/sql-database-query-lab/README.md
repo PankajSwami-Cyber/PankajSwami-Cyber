@@ -164,7 +164,7 @@ Through this lab, I gained practical experience using SQL to query and analyze o
 sql-database-query-lab/
 │
 ├── README.md
-└── screenshots/
+└── screenshots.pdf
 ```
 
 ---
