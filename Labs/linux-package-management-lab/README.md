@@ -155,30 +155,6 @@ Verified that both Suricata and tcpdump were installed on the system.
 
 ---
 
-## Screenshots
-
-### APT Installed
-
-![APT Installed](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/58416a81cd63111a1005b3b58fa06548a5658a27/Labs/linux-package-management-lab/screenshots/2-APT-Installed.png)
-
-### Installing Suricata
-
-![Installing Suricata](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/ed86c3799f6cbc39132daadb5cded66812434757/Labs/linux-package-management-lab/screenshots/3%20Installing%20Suricata.png)
-
-### Verifying Suricata
-
-![Verifying Suricata](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/ed86c3799f6cbc39132daadb5cded66812434757/Labs/linux-package-management-lab/screenshots/7%20Verifying%20Suricata.png)
-
-### Installing tcpdump
-
-![Installing tcpdump](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/ed86c3799f6cbc39132daadb5cded66812434757/Labs/linux-package-management-lab/screenshots/15%20Installing%20tcpdump.png)
-
-### Final Verification
-
-![Final Verification](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/ed86c3799f6cbc39132daadb5cded66812434757/Labs/linux-package-management-lab/screenshots/21%20Final%20Verification.png)
-
----
-
 ## Key Takeaways
 
 * Learned how to manage software packages using APT.
