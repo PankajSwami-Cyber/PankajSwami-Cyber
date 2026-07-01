@@ -109,26 +109,6 @@ This command clears all visible content from the terminal window.
 
 ---
 
-## Screenshots
-
-### Echo Command
-
-![Echo Command](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-shell-basics-lab/screenshots/2.png?raw=true)
-
-### Echo with Quotes
-
-![Echo with Quotes](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-shell-basics-lab/screenshots/4.png?raw=true)
-
-### Echo Name Output
-
-![Echo Name](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-shell-basics-lab/screenshots/6.png?raw=true)
-
-### Expr Calculation
-
-![Expr Calculation](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-shell-basics-lab/screenshots/9.png?raw=true)
-
----
-
 ## Key Concepts Learned
 
 * The Bash shell accepts commands as user input.
