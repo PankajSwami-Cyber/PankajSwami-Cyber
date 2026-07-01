@@ -155,14 +155,6 @@ This lab reinforced the importance of Linux navigation and log analysis skills i
 
 ---
 
-## Screenshots
-
-![screenshot18](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-file-navigation-lab/screenshots/18.png?raw=true)
-
-![screenshot19](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-file-navigation-lab/screenshots/19.png?raw=true)
-
-![screenshot21](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-file-navigation-lab/screenshots/21.png?raw=true)
-
 ## Author
 
 **[Pankaj Swami]**
