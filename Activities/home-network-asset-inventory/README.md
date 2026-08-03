@@ -47,7 +47,7 @@ The completed inventory identifies the network router, desktop, and guest smartp
 | Desktop Computer | Restricted | Contains private information such as personal photos. |
 | Guest Smartphone | Confidential | Connects to the home network and should have limited access. |
 
-This summary reflects the classifications documented in the inventory. :contentReference[oaicite:1]{index=1} 
+This summary reflects the classifications documented in the inventory. 
 
 ---
 
@@ -90,9 +90,8 @@ Through this project, I learned how to:
 home-network-asset-inventory/
 │
 ├── README.md
-├── Home asset inventory.pdf
-└── screenshots/
-    └── asset-inventory.png (optional)
+└── Home asset inventory.pdf
+ 
 ```
 
 ---
@@ -122,5 +121,5 @@ Aspiring Cybersecurity Analyst passionate about Security Operations (SOC), Asset
 
 **Connect with me**
 
-- LinkedIn: *(Add your profile link)*
-- GitHub: *(Add your GitHub profile link)*
+- LinkedIn: *https://www.linkedin.com/in/pankajswamicyber/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM3MKZwlBRT%2BaPdnwVB%2Bc5g%3D%3D*
+- GitHub: *https://github.com/PankajSwami-Cyber*
