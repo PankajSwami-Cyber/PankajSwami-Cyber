@@ -1,0 +1,21 @@
+# Explore home directory
+ls
+cat README.txt
+
+# Navigate to Caesar cipher directory
+cd caesar
+ls -a
+cat .leftShift3
+
+# Decode Caesar cipher
+cat .leftShift3 | tr "d-za-cD-ZA-C" "a-zA-Z"
+
+# Return home
+cd ~
+
+# Decrypt encrypted file
+openssl aes-256-cbc -pbkdf2 -a -d -in Q1.encrypted -out Q1.recovered -k '<LAB_PASSWORD>'
+
+# Verify recovered file
+ls
+cat Q1.recovered
