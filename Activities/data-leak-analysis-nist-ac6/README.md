@@ -135,6 +135,8 @@ This project demonstrates how a data leak can result from excessive access, fail
 
 Applying the principle of least privilege through appropriate access restrictions and timely access revocation can help organizations strengthen information privacy and reduce the risk of future data leaks.
 
-Github - 
+Github - https://github.com/PankajSwami-Cyber
 
-Linkedin - 
+Linkedin - www.linkedin.com/in/pankajswamicyber
+
+
