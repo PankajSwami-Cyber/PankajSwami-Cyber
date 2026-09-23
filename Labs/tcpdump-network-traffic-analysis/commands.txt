@@ -1,0 +1,15 @@
+# Task 1 - Identify interfaces
+sudo ifconfig
+sudo tcpdump -D
+
+# Task 2 - Inspect live traffic
+sudo tcpdump -i eth0 -v -c5
+
+# Task 3 - Capture HTTP traffic
+sudo tcpdump -i eth0 -nn -c9 port 80 -w capture.pcap &
+curl opensource.google.com
+ls -l capture.pcap
+
+# Task 4 - Analyze captured traffic
+sudo tcpdump -nn -r capture.pcap -v
+sudo tcpdump -nn -r capture.pcap -X
