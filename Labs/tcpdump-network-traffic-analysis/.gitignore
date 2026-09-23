@@ -1,0 +1,13 @@
+# Packet captures
+*.pcap
+*.pcapng
+capture.pcap
+
+# Secrets
+.env
+*.key
+*.pem
+
+# OS/editor files
+.DS_Store
+*.swp
