@@ -1,0 +1,6 @@
+sample.pcap
+*.pcap
+*.pcapng
+/var/log/
+eve.json
+fast.log
