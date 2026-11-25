@@ -44,7 +44,3 @@ After completing the notebook, a learner should be able to explain how Markdown 
 ## Scope and safety
 
 This is a basic programming exercise only. It does not scan networks, test systems, collect credentials, or analyze real security events. Do not add passwords, API keys, private information, or course-proprietary content to a public repository.
-
-## Course attribution
-
-If this exercise was completed as part of a course, add the course/provider name here and follow its content-sharing policy. The notebook contains original explanations and short code examples rather than copied course instructions.
