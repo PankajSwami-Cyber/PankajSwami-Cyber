@@ -15,8 +15,7 @@ A beginner-friendly Jupyter Notebook demonstrating a few Python fundamentals rel
 python-cybersecurity-first-steps/
 ├── README.md
 ├── .gitignore
-└── notebooks/
-    └── python_basics_for_security_analysts.ipynb
+└── python_basics_for_security_analysts.ipynb
 ```
 
 ## Open the notebook
